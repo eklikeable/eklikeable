@@ -1,7 +1,10 @@
-### Hello World! 🙋🏻‍♀️
+# Hello World! 🙋🏻‍♀️
+Hi, I'm EK. Thank you for visiting my page. I've been studying English for about two and a half years and it's become my hobby. I've been learning to code for not so long but I enjoy it, and the fact that there are tons of things I should learn makes me excited. I'm currently focusing on JavaScript. I'm going to be a Front-end developer soon! Keep an eye on me! 😊💪
 
-<br/>
-<h2> My tech stack 📚</h2>
+### 😄 Pronouns
+She/Her
+
+### 📚 My tech stack </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
