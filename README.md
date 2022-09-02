@@ -1,11 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=)
+
 # Hello World! 🙋🏻‍♀️
-Hi, I'm EK. Thank you for visiting my page. I've been studying English for about two and a half years and it's become my hobby. I've been learning to code for not so long but I enjoy it, and the fact that there are tons of things I should learn makes me excited. I'm currently focusing on JavaScript. I'm going to be a Front-end developer soon! Keep an eye on me! 😊💪
+Hi, I'm <b>EK</b>. Thank you for visiting my page. I've been studying English for about two and a half years and it's become my hobby. I've been learning to code for not so long but I enjoy it, and the fact that there are tons of things I should learn makes me excited. I'm currently focusing on JavaScript. I hope I'll get an opportunity to work with passionate colleagues as a Front-end web developer soon!💪
 
 ### 😄 Pronouns
 She/Her
 
 ### 📚 My tech stack </h2>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
