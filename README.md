@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=)
 # Hello World! 🙋🏻‍♀️
-Hi, I'm <b>EK</b>. Thank you for visiting my page. I've been studying English for about two and a half years and it's become my hobby. I've been learning to code for not so long but I enjoy it, and the fact that there are tons of things I should learn makes me excited. I'm currently focusing on JavaScript. I hope I'll get an opportunity to work with passionate colleagues as a Front-end web developer soon!💪
+Hi, I'm <b>EK</b>. Thank you for visiting my page. I've been learning to code for not so long but I enjoy it, and the fact that there are tons of things I should learn makes me excited. I'm currently focusing on JavaScript. I hope I'll get an opportunity to work with passionate colleagues as a Front-end web developer soon!💪
 
 ### 😄 Pronouns
 She/Her
